@@ -187,3 +187,5 @@ This project transforms random study groups into **structured, intelligent learn
 
 ---
 
+![Homepage](WhatsApp Image 2026-02-28 at 03.47.53.jpeg)
+
