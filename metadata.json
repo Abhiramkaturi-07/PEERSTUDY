@@ -1,0 +1,7 @@
+{
+  "name": "PeerStudy",
+  "description": "A full-stack collaborative learning platform for students to find compatible study groups based on their strengths and weaknesses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
